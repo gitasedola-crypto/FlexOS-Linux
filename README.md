@@ -1,5 +1,9 @@
-# FlexOS-Linux
-<img width="648" height="176" alt="image" src="https://github.com/user-attachments/assets/a411d701-72aa-480b-b86f-92daefbe61d1" />
+<img width="648" height="176" alt="Screenshot 2026-06-22 113140" src="https://github.com/user-attachments/assets/a3933430-480d-4334-8e3f-19521096b168" />
 
-FlexOS is a linux distro that plans to be stable in the future. 
-No installer in versions 0.1 - 0.4. We are going to add the installer in v0.5
+Welcome to FlexOS. 
+
+-**Solo developed linux distro**
+
+I aim to build my own DE if possible. (Probably not since yea..)
+
+V0.5-alpha adds the first installer. Versions >0.5 dont have one.
